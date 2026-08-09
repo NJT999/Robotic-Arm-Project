@@ -10,7 +10,7 @@ Component | Quantity | Purpose
 MG90s Micro Servo | 5 | Joint Rotation
 10k Potentiometer | 5 | Manual Joint Control
 ESP32 Microcontroller | 1 | "Brain" (Controls Elements in Circuit)
-Electrolytic Capcitor (µF) | 1 | Smooths Power Fluctuation
+Electrolytic Capcitor (1000µF) | 1 | Smooths Power Fluctuation
 
 ## Software
 * Arduino IED - Used to control servos with potentiometers and PWM
@@ -24,9 +24,9 @@ Electrolytic Capcitor (µF) | 1 | Smooths Power Fluctuation
 ### Phase 1 
 - [x] Hardware selected and modeled on breadboard
 - [x] Potentiometer mapping and servo testing
-- [ ] Arm modeled in Fusion360
+- [x] Arm modeled in Fusion360
 - [ ] Arm 3D printed and assembled
-- [ ] PCB designed
+- [x] PCB designed
 - [ ] Redesign base and integrate PCB into base
 
 ### Phase 2 
