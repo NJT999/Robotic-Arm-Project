@@ -22,13 +22,15 @@ Electrolytic Capcitor (1000µF) | 1 | Smooths Power Fluctuation
 
 ## CAD Design
 
+## PCB Design
+
 ## Project Phases
 ### Phase 1 
 - [x] Hardware selected and modeled on breadboard
 - [x] Potentiometer mapping and servo testing
 - [x] Arm modeled in Fusion360
 - [ ] Arm 3D printed and assembled
-- [x] PCB designed
+- [x] PCB designed and ordered via JLCPCB
 - [ ] Redesign base and integrate PCB into base
 
 ### Phase 2 
